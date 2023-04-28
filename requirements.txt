@@ -1,0 +1,8 @@
+pathlib==1.0.1
+PyMuPDF==1.22.2
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+pytz==2023.3
+tzdata==2023.3
+urllib3==1.26.15
