@@ -9,7 +9,8 @@
 
 <ul>
   <li> Устанавливаем https://www.ghostscript.com/</li>
-  <li> Устанавливаем зависимости</li>
-  <li> Запускаем </li>
+  <li> Создаем виртуальное окружение</li>
+  <li> Устанавливаем зависимости: pip install -r requirements.txt</li>
+  <li> Запускаем main.py </li>
   <li> Указываем директорию где лежат ваши zip</li>
 </ul>
